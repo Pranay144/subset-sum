@@ -5,4 +5,5 @@
 4) Wait for the ouput.
 
 important: Change L = random.sample(range(1,n), 'how many numbers you want in list')
+
 eg. L = random.sample(range(1,1000), 100)     #This will give list of 100 random numbers in range 1-1000. 
